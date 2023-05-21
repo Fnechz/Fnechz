@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fnechz
-- 👀 I’m interested in mathematical analysis and solving programming challenges as a hobby
+- 👀 I’m interested in mathematical analysis (semigroup theory applied to evolution partial differential equations) and solving programming challenges as a hobby
 - 🌱 I’m currently learning Mathematical Analysis
 - 💞️ I’m looking to collaborate on cool projects, I do not filter
 - 📫 How to reach me on twitter I'm Farai N
